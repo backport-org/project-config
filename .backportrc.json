@@ -5,14 +5,5 @@
     "8.0",
     "7.17",
     "7.16"
-  ],
-  "targetPRLabels": [
-    "backport"
-  ],
-  "branchLabelMapping": {
-    "^v8.1.0$": "main",
-    "^v(\\d+).(\\d+).\\d+$": "$1.$2"
-  },
-  "autoMerge": true,
-  "autoMergeMethod": "squash"
+  ]
 }

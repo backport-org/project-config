@@ -1,6 +1,6 @@
 {
   "upstream": "backport-org/repo-with-project-config",
-  "targetBranchChoices": [
+  "branches": [
     "main",
     "8.0",
     "7.17",

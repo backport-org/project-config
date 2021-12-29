@@ -1,5 +1,6 @@
 {
-  "upstream": "backport-org/repo-with-project-config",
+  "repoOwner": "backport-org",
+  "repoName": "repo-with-project-config",
   "targetBranchChoices": [
     "main",
     "8.0",
